@@ -4,3 +4,6 @@ Vircadia Metaverse Server requires mongodb setting. However it is not an easy ta
 ## Build.
 Run ```build-mongo.sh``` This will create an `vircadia-mongodb` docker image.
 You can run `run-mongo.sh` to see how it is running.
+
+### TODO
+Migrate this repository to vircadia repository: vircadia/vircadia-mongodb.
